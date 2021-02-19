@@ -1,0 +1,6 @@
+node_modules
+Dockerfile
+.dockerignore
+Para correr a APP.txt
+README.md
+LICENSE
